@@ -24,7 +24,7 @@ To use TileCalc, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/phcrepaldi/Tile-Cacl.git
+git clone https://github.com/phcrepaldi/Tile-Calc.git
 ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -39,8 +39,8 @@ We welcome contributions to TileCalc! If you'd like to add new features, fix bug
 
 ## Links
 
-- Project homepage: https://github.com/phcrepaldi/Tile-Cacl
-- Issue tracker: https://github.com/phcrepaldi/Tile-Cacl/issues
+- Project homepage: https://github.com/phcrepaldi/Tile-Calc
+- Issue tracker: https://github.com/phcrepaldi/Tile-Calc/issues
   - For any sensitive or security-related issues, please contact us directly at your-email@example.com instead of using the issue tracker. Your cooperation in maintaining the project's security is highly appreciated.
 
 ## Licensing
